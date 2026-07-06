@@ -1,0 +1,5 @@
+// Render the "S" label with a line-through so it reads as a strikethrough button.
+.toolbar__button.strikethrough .d-button-label {
+  text-decoration: line-through;
+  font-weight: bold;
+}

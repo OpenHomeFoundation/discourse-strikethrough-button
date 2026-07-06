@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: "Adds a strikethrough button to the composer toolbar, working in both the rich text and markdown editors."
+  strikethrough_title: "Strikethrough"
+  strikethrough_text: "strikethrough text"
