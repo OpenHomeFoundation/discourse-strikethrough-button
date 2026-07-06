@@ -8,6 +8,10 @@ It exists because Discourse core ships a strikethrough *mark* (`~~text~~`) but n
 toolbar button for it. This component adds one that toggles the mark cleanly in
 the rich editor and falls back to `~~…~~` markdown in the plain-text editor.
 
+## Compatibility
+
+Confirmed working on Discourse **2026.6.0**.
+
 ## How it works
 
 - **Rich editor:** registers a small [rich editor extension][ext] that adds a
